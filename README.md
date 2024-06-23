@@ -1,2 +1,11 @@
 # Image-to-caption-generator
-This project features an image captioning system using Swin Transformer as the encoder and GPT-2 as the decoder, trained on the COCO2014 dataset. It generates descriptive image captions and achieves a ROUGE-1 score of 52.73 and a BLEU score of 17.19, utilizing the Hugging Face transformers library for implementation and evaluation.
+This project demonstrates an image captioning system that generates descriptive text for images using a combination of vision and language models. Specifically, it leverages a Vision Transformer (ViT) as the encoder and GPT-2 as the decoder to create captions for images. The dataset used for training and evaluation is the COCO2014 dataset.
+# Table of contents
+Introduction
+Model Architecture
+Dataset
+Training
+Evaluation
+Results
+Installation
+Usage
